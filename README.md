@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Each section of this Prework Study Guide gives basic notes on one of the 4 topcs, HTML, CSS, git, and JavaScript. It demostrates an understanding of the process and code behind making the sections work. If we open Chrome  DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows) a console panel will open. There you will see the list of topics we learned from the prework part of this bootcamp, along with a suggestion on which topic to study first.
+Each section of this Prework Study Guide gives basic notes on one of the 4 topcs, HTML, CSS, git, and JavaScript. It demostrates an understanding of the process and code behind making the sections work. If we open Chrome  DevTools by pressing `Command+Option+I` (macOS) or `Control+Shift+I` (Windows) a console panel will open. There you will see the list of topics we learned from the prework part of this bootcamp, along with a suggestion on which topic to study first.
 
 ## Credits
 
